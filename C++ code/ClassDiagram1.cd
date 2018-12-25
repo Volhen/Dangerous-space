@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="game" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="game::__unnamed_enum_0005_1">
+        <TypeIdentifier>
+          <NewMemberFileName>main.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IwAAAEDAALElAAgEAwoADwohEFqIQJBI0ESNZBAAAwo=</HashCode>
+      <FileName>main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gapp" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAANAAAgAAAAAgAAAAAAAAAAAAAAQAwAAAQAIAA=</HashCode>
+      <FileName>gapp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gapp2" Collapsed="true">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAAAAABAAAgIAAAgAAQAACAAACAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>gapp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="list&lt;var&gt;" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAQwCAgABAEAAABAAAAAACAAEAAABAgACgAAAAAgw=</HashCode>
+      <FileName>list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="listptr&lt;var&gt;" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <InheritanceLine Type="list&lt;var&gt;" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.188" Y="1.812" />
+        <Point X="1.188" Y="2.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAQ=</HashCode>
+      <FileName>list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="object2D" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABggAIAIAAYAgQAACIBgAIQAhACAIAAgQ=</HashCode>
+      <FileName>gelements.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gwindow" Collapsed="true">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAACAwAAAAAAAAAAAAAAAAAAACEAACAAAAA=</HashCode>
+      <FileName>gelements.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="picture" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>portrayal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="animation" Collapsed="true">
+    <Position X="10" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAACAAQDIBAIoAARgAJgIAYAJAggQAAAECIgEAAAAA=</HashCode>
+      <FileName>portrayal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="asteroid" Collapsed="true">
+    <Position X="12.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAQAAAAAAAABAAAAAAAAAAAUAAAAA=</HashCode>
+      <FileName>portrayal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spaceobjects" Collapsed="true">
+    <Position X="12.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAAAAAAAAAAAAQAAAAAAAABAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>portrayal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bullet" Collapsed="true">
+    <Position X="8" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>portrayal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="life" Collapsed="true">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>portrayal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="stars" Collapsed="true">
+    <Position X="12.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>portrayal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bang" Collapsed="true">
+    <Position X="12.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>portrayal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartImge" Collapsed="true">
+    <Position X="8" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAgAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>portrayal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="player" Collapsed="true">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGgAAABKQAgAIgAyQBAAAAAAgBIBI0ABIAAYAEAQggA=</HashCode>
+      <FileName>portrayal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bots" Collapsed="true">
+    <Position X="10.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAABAAAAAAgAAAAAAAEAAAAAAAkAAAAAIAAAQAgA=</HashCode>
+      <FileName>portrayal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="display" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABFBIECAAiAAAgIgAIAACAAAAAEAAAAokABCAACAAIw=</HashCode>
+      <FileName>display.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="button" Collapsed="true">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAgMAAAAAAAAIAQABAAAAIAAgBAAgAAI=</HashCode>
+      <FileName>display.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="menu" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAACBCAAggIAAAAAQggCAAAAAAAAAAAEAEAAAAA=</HashCode>
+      <FileName>display.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="death_player" Collapsed="true">
+    <Position X="14.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAgAAAkIAAAAAQAAIAAACAAAAAAAEAAAAAIA=</HashCode>
+      <FileName>display.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="result" Collapsed="true">
+    <Position X="14.25" Y="4.75" Width="1.5" />
+    <InheritanceLine Type="picture" ManuallyRouted="true">
+      <Path>
+        <Point X="10.75" Y="1.191" />
+        <Point X="10.75" Y="1.625" />
+        <Point X="13.911" Y="1.625" />
+        <Point X="13.911" Y="2.892" />
+        <Point X="15.944" Y="2.892" />
+        <Point X="15.944" Y="4.361" />
+        <Point X="15" Y="4.361" />
+        <Point X="15" Y="4.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAkAACAAAQQAkIABAQAAAAAAAQAAAAAEAAGCAAAAIA=</HashCode>
+      <FileName>display.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="options" Collapsed="true">
+    <Position X="14.25" Y="3.5" Width="1.5" />
+    <InheritanceLine Type="picture" ManuallyRouted="true">
+      <Path>
+        <Point X="10.75" Y="1.191" />
+        <Point X="10.75" Y="1.62" />
+        <Point X="13.945" Y="1.62" />
+        <Point X="13.945" Y="2.879" />
+        <Point X="15" Y="2.879" />
+        <Point X="15" Y="3.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AEAACAAAAAAAggAAAAAAAAAAAAAAAAAAgAAEAAIAAIA=</HashCode>
+      <FileName>display.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sound" Collapsed="true">
+    <Position X="1.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAACBAACAwA=</HashCode>
+      <FileName>Sound.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sound_shot" Collapsed="true">
+    <Position X="2.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sound.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sound_music" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAABAAAAgAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Sound.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="elem&lt;var&gt;" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAIAAAA=</HashCode>
+      <FileName>list.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
